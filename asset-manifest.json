@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Del37.github.io/gh-page-macth-app/static/css/main.e20e05f6.css",
-    "main.js": "/Del37.github.io/gh-page-macth-app/static/js/main.6200d8be.js",
-    "static/js/787.d0758ab2.chunk.js": "/Del37.github.io/gh-page-macth-app/static/js/787.d0758ab2.chunk.js",
+    "main.js": "/Del37.github.io/gh-page-macth-app/static/js/main.3994b6ba.js",
+    "static/js/496.ba26db89.chunk.js": "/Del37.github.io/gh-page-macth-app/static/js/496.ba26db89.chunk.js",
     "service-worker.js": "/Del37.github.io/gh-page-macth-app/service-worker.js",
     "index.html": "/Del37.github.io/gh-page-macth-app/index.html",
     "main.e20e05f6.css.map": "/Del37.github.io/gh-page-macth-app/static/css/main.e20e05f6.css.map",
-    "main.6200d8be.js.map": "/Del37.github.io/gh-page-macth-app/static/js/main.6200d8be.js.map",
-    "787.d0758ab2.chunk.js.map": "/Del37.github.io/gh-page-macth-app/static/js/787.d0758ab2.chunk.js.map"
+    "main.3994b6ba.js.map": "/Del37.github.io/gh-page-macth-app/static/js/main.3994b6ba.js.map",
+    "496.ba26db89.chunk.js.map": "/Del37.github.io/gh-page-macth-app/static/js/496.ba26db89.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e20e05f6.css",
-    "static/js/main.6200d8be.js"
+    "static/js/main.3994b6ba.js"
   ]
 }
