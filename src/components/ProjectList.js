@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Card, CardTitle, CardText, CardBody, Button } from 'reactstrap';
 
 const ProjectList = () => {
-  const [projects, setProjects] = useState([
+  const [projects] = useState([
     // TODO: Add database logic!
     {
       id: 1,

@@ -15,7 +15,7 @@ import {
 } from 'reactstrap';
 
 const Profile = () => {
-  const [tags, setTags] = useState(['React', 'JavaScript', 'HTML', 'CSS']);
+  const [tags] = useState(['React', 'JavaScript', 'HTML', 'CSS']);
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const [selectedTags, setSelectedTags] = useState([]);
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Button, Form, FormGroup, Label, Input, Card, CardTitle, CardText, CardBody } from 'reactstrap';
+import { Button, Form, FormGroup, Label, Input, Card, CardTitle, CardBody } from 'reactstrap';
 
 const CreateProject = () => {
   const [name, setName] = useState('');
